@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e07a1f"/>
+      <stop offset="100%" stop-color="#2a0705"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="45%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g opacity="0.12" fill="none" stroke="#ffffff" stroke-width="2">
+    <circle cx="400" cy="300" r="220"/>
+    <circle cx="400" cy="300" r="170"/>
+    <circle cx="400" cy="300" r="120"/>
+  </g>
+  <rect width="800" height="600" fill="url(#vig)"/>
+  <text x="400" y="290" font-family="'Noto Sans','Segoe UI',sans-serif" font-size="130" fill="#ffffff" fill-opacity="0.9" text-anchor="middle" dominant-baseline="middle">🔥</text>
+  <rect x="0" y="500" width="800" height="100" fill="#2a0705" fill-opacity="0.55"/>
+  <text x="400" y="545" font-family="'Tiro Devanagari Hindi','Noto Sans Devanagari',serif" font-size="42" fill="#f2e6cd" text-anchor="middle">महायज्ञ</text>
+  <text x="400" y="580" font-family="'Cinzel','Georgia',serif" font-size="16" letter-spacing="3" fill="#e6c877" text-anchor="middle">SAMPLE PHOTO 7</text>
+</svg>
